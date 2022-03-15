@@ -5,5 +5,5 @@
 ### Attribution
 
 - My brother Adrian Taylor
-  - I showed me this [website](https://www.awwwards.com/) to help inspire me for a design of my mockup
+  - He showed me this [website](https://www.awwwards.com/) to help inspire me for the design of my mockup
     - On this link I found this [website](https://www.sneakinpeace.com/). This site didn't seem nearly as complex as other websites on the `awwwards` site, but still had a very clean layout that I really liked.
